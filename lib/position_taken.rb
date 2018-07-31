@@ -4,4 +4,5 @@ def position_taken?(board, index)
     return false
   else
     return true #board[index] is not "" or "" or nil because there's an "X" or "O"
+  # end
 end
